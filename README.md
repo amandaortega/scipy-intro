@@ -10,7 +10,7 @@ Introdução à computação científica com Python
 .. slug: index
 -->
 
-![Alt text](./figs/fig.png) ![Alt text](./fig/fitting.png)
+![Alt text](./figs/fig.png) ![Alt text](./figs/fitting.png)
 
 Proposta
 --------
