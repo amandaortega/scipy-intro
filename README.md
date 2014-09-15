@@ -1,7 +1,6 @@
-scipy-intro
-===========
+Introdução à computação científica com Python 
+========================================================
 
-Introdução à computação científica com Python (em pt_BR)
 <!-- 
 .. link: 
 .. description: 
@@ -11,7 +10,7 @@ Introdução à computação científica com Python (em pt_BR)
 .. slug: index
 -->
 
-![Alt text](fig.png) ![Alt text](fitting.png)
+![Alt text](./figs/fig.png) ![Alt text](./fig/fitting.png)
 
 Proposta
 --------
