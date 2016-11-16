@@ -1,3 +1,5 @@
+*.pdf
+*.tex
 *.html
 reveal.js
 .ipynb_checkpoints
